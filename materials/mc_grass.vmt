@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "mc_grass"
+	"$alphatest" "1"
+	"$translucent" "1"
+	"$surfaceprop" "Grass"
+}

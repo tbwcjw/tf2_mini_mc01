@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "mc_iron_bars"
+	"$alphatest" "1"
+	"$translucent" "1"
+	"$surfaceprop" "Metal"
+}

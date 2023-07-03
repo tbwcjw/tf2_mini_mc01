@@ -1,0 +1,14 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "mc_lava_still_anim"
+	"$surfaceprop" "Wade"
+	"Proxies"
+	{
+		"AnimatedTexture"
+		{
+			"animatedTextureVar" "$basetexture"
+			"animatedTextureFrameNumVar" "$frame"
+			"animatedTextureFrameRate" "24"
+		}
+	}
+}

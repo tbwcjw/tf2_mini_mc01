@@ -1,0 +1,14 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "mc_portal_anim"
+	"$surfaceprop" "Glass"
+	"Proxies"
+	{
+		"AnimatedTexture"
+		{
+			"animatedTextureVar" "$basetexture"
+			"animatedTextureFrameNumVar" "$frame"
+			"animatedTextureFrameRate" "16"
+		}
+	}
+}

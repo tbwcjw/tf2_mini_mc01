@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "mc_brick"
+	"$pointsamplemagfilter" "0"
+	"$surfaceprop" "Brick"
+}

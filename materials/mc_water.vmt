@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "mc_water"
+	"$alphatest" "1"
+	"$translucent" "1"
+	"$surfaceprop" "Wade"
+}

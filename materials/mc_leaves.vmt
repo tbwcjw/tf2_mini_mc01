@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "mc_leaves"
+	"$alphatest" "1"
+	"$translucent" "1"
+	"$surfaceprop" "Foliage_leaf"
+}
