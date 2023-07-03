@@ -37,6 +37,11 @@ Running the map:
 
 \** this line is optional. this runs the game after compilation.
 
+##Future Goals:
+
+1. Add an underworld 'nether', accessible by the central stone structure. It should be a clone of the overworld, with a dystopian, hellian twist.
+1. Add hidden rooms accessible by the two 3x3 areas next to the forts on each side of the map. These could be homages to other TF2 Minecraft themed maps or something original.
+1. Decorate the forts with decorative blocks, such as picture frames and plants.
 
 ## Credits
 - Map created and compiled with [Hammer++](https://ficool2.github.io/HammerPlusPlus-Website/index.html).
