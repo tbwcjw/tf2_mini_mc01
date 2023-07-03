@@ -23,13 +23,13 @@ Baked Lighting:
 Running the map:
 >$bsp_exe -game $gamedir $path\$file
 >
->$light_exe -both -game $gamedir $path\$file
+>$light_exe -both -game $gamedir $path\\$file
 >
->$vis_exe -game $gamedir $path\file
+>$vis_exe -game $gamedir $path\\file
 >
->$bsp_exe -game -final* $gamedir $path\$file
+>$bsp_exe -game -final* $gamedir $path\\$file
 >
->Copy File $path\$file.bsp $bspdir\$file.bsp
+>Copy File $path\$file.bsp $bspdir\\$file.bsp
 >
 >(optional) $game_exe -dev -console -allowdebug -hijack -game $gamedir +map $file **
 
