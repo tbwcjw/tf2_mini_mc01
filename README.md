@@ -37,7 +37,8 @@ Running the map:
 
 \** this line is optional. this runs the game after compilation.
 
-##Future Goals:
+
+## Future Goals:
 
 1. Add an underworld 'nether', accessible by the central stone structure. It should be a clone of the overworld, with a dystopian, hellian twist.
 1. Add hidden rooms accessible by the two 3x3 areas next to the forts on each side of the map. These could be homages to other TF2 Minecraft themed maps or something original.
