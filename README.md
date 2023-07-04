@@ -21,7 +21,7 @@ Baked Lighting:
 >Bounced Light, HDR Lights, Light bleed hack, Cubemap, Soften Cosine: TRUE/Checked
 
 Running the map:
->$bsp_exe -game $gamedir $path\$file
+>$bsp_exe -game $gamedir $path\\$file
 >
 >$light_exe -both -game $gamedir $path\\$file
 >
@@ -31,7 +31,7 @@ Running the map:
 >
 >Copy File $path\\$file.bsp $bspdir\\$file.bsp
 >
->(optional) $game_exe -dev -console -allowdebug -hijack -game $gamedir +map $file **
+>$game_exe -dev -console -allowdebug -hijack -game $gamedir +map $file **
 
 \* '-final' flag is optional. '-final' flag compilation takes longer.
 
