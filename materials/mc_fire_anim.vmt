@@ -1,0 +1,14 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "mc_fire_anim"
+	"$alphatest" "1"
+	"Proxies"
+	{
+		"AnimatedTexture"
+		{
+			"animatedTextureVar" "$basetexture"
+			"animatedTextureFrameNumVar" "$frame"
+			"animatedTextureFrameRate" "24"
+		}
+	}
+}

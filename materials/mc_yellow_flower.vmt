@@ -3,4 +3,5 @@
 	"$basetexture" "mc_yellow_flower"
 	"$alphatest" "1"
 	"$translucent" "1"
+	"$surfaceprop" "Foliage"
 }

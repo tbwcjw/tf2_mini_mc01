@@ -2,4 +2,13 @@
 {
 	"$basetexture" "mc_lava_flow"
 	"$surfaceprop" "Wade"
+	"Proxies"
+	{
+		"AnimatedTexture"
+		{
+			"animatedTextureVar" "$basetexture"
+			"animatedTextureFrameNumVar" "$frame"
+			"animatedTextureFrameRate" "14"
+		}
+	}
 }
