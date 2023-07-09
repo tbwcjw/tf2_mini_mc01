@@ -11,7 +11,7 @@ My first map. Original map design built in Minecraft and used as a reference in 
 
 A new realm under the overworld emerges! Fight your way through familiar surroundings with a hellian twist. Don't get burnt! The central stone structure will get you there, and the two portals in the nether get you back!
 
-Version 2 is in pre-release testing as of 7/8/23.
+[Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3001647826)
 
 ## Compilation
 
