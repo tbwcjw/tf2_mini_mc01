@@ -1,10 +1,18 @@
 # Mini Minecraft 2fort Map for Team Fortress 2
 
+# Version 1: 
 A small map for intimate matches and fast pasted action! Blue and Red forts are identical. There are two teleporters in each tunnel and the central stone structure is boobytrapped with TNT... Careful!
 
 My first map. Original map design built in Minecraft and used as a reference in Hammer++ to build the final map.
 
 [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2998450868)
+
+# Version 2:
+
+A new realm under the overworld emerges! Fight your way through familiar surroundings with a hellian twist. Don't get burnt! The central stone structure will get you there, and the two portals in the nether get you back!
+
+Version 2 is in pre-release testing as of 7/8/23.
+
 ## Compilation
 
 Baked Lighting:
@@ -40,7 +48,7 @@ Running the map:
 
 ## Future Goals:
 
-1. Add an underworld 'nether', accessible by the central stone structure. It should be a clone of the overworld, with a dystopian, hellian twist.
+1. ~Add an underworld 'nether', accessible by the central stone structure. It should be a clone of the overworld, with a dystopian, hellian twist.~
 1. Add hidden rooms accessible by the two 3x3 areas next to the forts on each side of the map. These could be homages to other TF2 Minecraft themed maps or something original.
 1. Decorate the forts with decorative blocks, such as picture frames and plants.
 
