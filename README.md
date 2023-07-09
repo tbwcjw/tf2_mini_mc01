@@ -56,3 +56,5 @@ Running the map:
 - Map created and compiled with [Hammer++](https://ficool2.github.io/HammerPlusPlus-Website/index.html).
 - Textures, Materials, Sounds by Mojang. Compiled with [VFTEdit](https://valvedev.info/tools/vtfedit/).
 - Skybox [MCLite](https://gamebanana.com/mods/7260) by HaZZaRDouZ.
+
+- A note on server usage: I'm more than happy for anyone to use this on their server, provided they credit either "github.com/tbwcjw" or "steam/ThatBritWiener".
